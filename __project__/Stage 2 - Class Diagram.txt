@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------
+ CLASS  DIAGRAM
+------------------------------------------------------------------------------
+produce a static model of a system by producing a class diagram that includes:
+
+- visibility of attributes and operations (private, public, protected)
+
+- specification of appropriate association, aggregation 
+  and inheritance relationships between classes

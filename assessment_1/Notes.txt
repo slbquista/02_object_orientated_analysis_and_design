@@ -1,0 +1,3 @@
+When testing you should ensure that all the functionality described in the use case diagram is posible.
+
+When implementing, you could say 'subnetname.getDevices' which would display all online devices for that subnet.

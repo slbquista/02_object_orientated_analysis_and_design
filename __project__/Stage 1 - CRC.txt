@@ -1,0 +1,52 @@
+------------------------------------------------------------------------------
+CLASS  RESPONSIBILITY  COLLABORATOR  (CRC)
+------------------------------------------------------------------------------
+
+ Create CRC cards for your project model.
+ Use the .pptx file "CRC_blank".
+ Save the file as .pdf.
+ (Add more cards if needed).
+
+------------------------------------------------------------------------------
+
+http://agilemodeling.com/artifacts/crcModel.htm
+[accessed on 2016-05-04]
+
+A Class Responsibility Collaborator (CRC) model (Beck & Cunningham 1989; Wilkinson 1995; Ambler 1995) 
+is a collection of standard index cards that have been divided into three sections ...
+
+A class represents a collection of similar objects, 
+a responsibility is something that a class knows or does, 
+and a collaborator is another class that a class interacts with to fulfill its responsibilities. 
+
+
+<quote>
+ So how do you create CRC models? Iteratively perform the following steps:
+
+    Find classes. Finding classes is fundamentally an analysis task because it deals with 
+	identifying the building blocks for your application. 
+	A good rule of thumb is that you should look for the three-to-five main classes right away, 
+	such as Student, Seminar, and Professor.
+	
+    Find responsibilities. You should ask yourself what a class does as well as 
+	what information you wish to maintain about it. 
+	You will often identify a responsibility for a class to fulfill a collaboration with another class.
+
+    Define collaborators. A class often does not have sufficient information 
+	to fulfill its responsibilities. Therefore, it must collaborate (work) with other classes 
+	to get the job done. Collaboration will be in one of two forms: 
+	a request for information or a request to perform a task. 
+	To identify the collaborators of a class for each responsibility ask yourself 
+	"does the class have the ability to fulfill this responsibility?". 
+	If not then look for a class that either has the ability to fulfill the missing functionality 
+	or the class which should fulfill it. In doing so you'll often discover the need 
+	for new responsibilities in other classes and maybe even the need for a new class or two.
+
+    Move the cards around. To improve everyone's understanding of the system, 
+	the cards should be placed on the table in an intelligent manner. 
+	Two cards that collaborate with one another should be placed close together on the table, 
+	whereas two cards that don't collaborate should be placed far apart. 
+	Furthermore, the more two cards collaborate, the closer they should be on the desk. 
+	By having cards that collaborate with one another close together, 
+	it's easier to understand the relationships between classes. 
+</quote>

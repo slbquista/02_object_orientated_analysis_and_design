@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------
+ Use Case Diagram
+------------------------------------------------------------------------------
+- construct a use case diagram which models use cases, 
+  actors, and associations between actors and use cases
+  
+- construct a minimum of four use case scenarios which include 
+  pre and post conditions, 
+  trigger event 
+  and the best case scenario flow of events (example: see below). 
+  Alternative or exceptional behaviour must be included in one or more use case scenarios.
+  
+- validate requirements using use case scenarios and user interface walkthroughs

@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------
+ DYNAMIC DIAGRAMS
+------------------------------------------------------------------------------
+- construct a sequence diagram 
+  which shows the flow of messages between three or more objects, for one use case
+  
+- construct one other interaction diagram. 
+  This could be one of any of the following: 
+  activity, collaboration, statechart, component. 
+  The diagram must be appropriate for the scenario.

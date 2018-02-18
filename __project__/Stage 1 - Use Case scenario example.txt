@@ -1,0 +1,25 @@
+
+Example:
+-------------------------------------------------------------------------------
+Use case: Restart Level
+-------------------------------------------------------------------------------
+Requirements: 
+  Set the game back to the original starting configuration 
+  and reset the number of steps to zero.
+
+Pre-conditions: 
+  The game has been started and the level is not complete.
+
+Post-conditions: 
+  The Player and all other items in the game will be back 
+  in their initial positions. The number of moves will be zero.
+
+Invariants: The coordinate system and number of items in the game.
+
+Scenario:
+  Player selects “Restart Level” menu option.
+  Call load coordinate system method and pass in the level number
+  If the level is <= maximum
+    Load coordinates[levelNumber]
+    Display coordinate system
+  End If

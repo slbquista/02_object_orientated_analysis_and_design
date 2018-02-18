@@ -1,0 +1,5 @@
+http://www.agilemodeling.com/artifacts/useCaseDiagram.htm
+http://agilemodeling.com/artifacts/systemUseCase.htm
+
+use case scenario:
+https://www.lucidchart.com/pages/use-case-scenario-example-and-template-UML
